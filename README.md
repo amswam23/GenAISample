@@ -1,2 +1,2 @@
 # GenAISample
-sample gen AI app
+sample gen AI app,for learning
